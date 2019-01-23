@@ -11,6 +11,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 **Download & Preview on [AdminLTE.IO](https://adminlte.io)**
 
+!["AdminLTE Presentation"](https://adminlte.io/AdminLTE2.png "AdminLTE Presentation")
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
